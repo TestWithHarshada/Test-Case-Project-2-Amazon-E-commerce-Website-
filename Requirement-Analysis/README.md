@@ -1,6 +1,6 @@
     - Project Name - Amazon - E-commerce website
     
-   - 1. Login Page Testing 
+   1. Login Page Testing -
 
 - Login Page should logged in properly.
 - Enter Invalid Password should Error message displayed.
