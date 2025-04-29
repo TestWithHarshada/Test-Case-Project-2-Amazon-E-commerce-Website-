@@ -1,1 +1,26 @@
+    - Project Name - Amazon - E-commerce website
+    
+   - 1. Login Page Testing 
 
+    - Login Page should logged in properly.
+    - Enter Invalid Password should Error message displayed.
+    - Forgot Password - .
+- Search result should with valid product name is displayed.
+- Search result should with Invalid  message should be displayed "No result Found".
+- Product should be added in the cart .
+- Product remove should be from the cart.
+- Order should be placed.
+- UI Elements or website should be displayed properly.
+- Buttons should be clearly visible.
+- Order should be placed and confirmation message should be displayed.
+- Order should be placed
+- User should be asked to log in before proceeding
+- Order details (price, quantity, Delivery Date,) should be correct.
+- Payment should be Successful and order should be placed.
+- Payment with an invalid credit card error message should be displayed.
+- Payment with UPI, payment should be successful.
+- Payment Failure during the payment, error messages should be displayed for try again.
+- Refund process should be Expected time.
+- Product tracking information should be displayed correctly.
+- Order should be cancelled successful.
+- Return and refund process should be processed.
