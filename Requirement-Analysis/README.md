@@ -2,9 +2,9 @@
     
    - 1. Login Page Testing 
 
-    - Login Page should logged in properly.
-    - Enter Invalid Password should Error message displayed.
-    - Forgot Password - .
+- Login Page should logged in properly.
+- Enter Invalid Password should Error message displayed.
+- Forgot Password - .
 - Search result should with valid product name is displayed.
 - Search result should with Invalid  message should be displayed "No result Found".
 - Product should be added in the cart .
