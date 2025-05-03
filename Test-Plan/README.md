@@ -1,33 +1,51 @@
     - Project Name: Amazon E-Commerce Website Testing
 
  - Objective:
-      Ensure that user authentication, product search, cart functionality, order placement, payment, and refund are working correctly.
+      To validate core functionalities of Amazon’s website using manual testing techniques to ensure usability, accuracy, and responsiveness.
 
  - Scope:
-   - Login & Authentication
-   - Product Search
-   - Cart Management
-   - Order Placement
-   - Payment Gateway
-   - Refund & Tracking
-   - UI/UX Elements
+   - Login/Signup
+   - Search functionality
+   - Product Detail Page
+   - Add to Cart, Wishlist
+   - Checkout process
+   - Order tracking
+   - UI Testing (Images, Layout)
+  
+ - Out of Scope:
+   - API/backend validation
+   - Load & performance testing
+   - Third-party integrations
 
 - Testing Types:
    - Functional Testing
    - UI Testing
-   - Usability Testing
    - Regression Testing
-   - Payment Integration Testing
+   - Compatibility Testing (Browsers/Devices)
+   - Smoke Testing
 
-- Resources:
+- Test Environment:
    - Browser (Chrome, Firefox)
    - Mobile Testing (Responsive check)
-   - Testers (1 QA + 1 Developer for fixing)
+   - Devices: Desktop, Mobile View (Responsive testing)
 
  - Tools:
-   - Test Management: Excel/Google Sheets
-   - Bug Tracking: Jira/Trello/Excel
-   - Payment Sandbox (for testing)
+   - Manual Testing (Excel for test cases)
+ 
+ - Entry Criteria:
+   - Development is complete for module
+   - Test environment is stable
+   - Test cases are ready
 
-- Timeline:
-   - 2 weeks
+ - Exit Criteria:
+   - All test cases executed
+   - High and medium severity bugs fixed and verifie
+   - Final test report prepared
+
+ - Deliverables:
+   - Requirement Analysis
+   - Test Plan
+   - Test Cases
+   - Bug Report
+   - Test Report
+
