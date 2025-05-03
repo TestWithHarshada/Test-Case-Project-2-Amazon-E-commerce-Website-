@@ -2,7 +2,7 @@
     
    1. Login Page Testing -
    
-  - Core Modules to be Tested:
+    - Core Modules to be Tested:
 
 1. Login & Signup
 2. Search Functionality
@@ -15,15 +15,15 @@
 
   - Non-Functional Requirements:
 
-- Page loading time should be under 3 seconds
-- Responsive across devices (mobile, tablet, desktop)
-- Secure login (password masked, HTTPS)
+  - Page loading time should be under 3 seconds
+  - Responsive across devices (mobile, tablet, desktop)
+  - Secure login (password masked, HTTPS)
 
-  - In Scope:
+    - In Scope:
 
-- Manual testing of UI and functional flows for above modules
+  - Manual testing of UI and functional flows for above modules
 
-  - Out of Scope:
+    - Out of Scope:
 
 - Backend database validation
 - API testing
