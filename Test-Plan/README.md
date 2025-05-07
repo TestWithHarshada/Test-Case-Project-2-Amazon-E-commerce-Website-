@@ -1,46 +1,48 @@
     - Project Name: Amazon E-Commerce Website Testing
 
  - Objective:
-      To validate core functionalities of Amazon’s website using manual testing techniques to ensure usability, accuracy, and responsiveness.
-
+      To verify that the Amazon website functions correctly as per the defined requirements, including login, product search, UI display, cart functionalities, order details, payment process, and responsiveness.
+   
  - Scope:
-   - Login/Signup
-   - Search functionality
-   - Product Detail Page
-   - Add to Cart, Wishlist
-   - Checkout process
-   - Order tracking
-   - UI Testing (Images, Layout)
+   - Login functionality
+   - UI elements visibility
+   - Product search and display
+   - Cart add/remove feature
+   - Order information accuracy
+   - Payment gateway validation
+   - Website responsiveness
   
  - Out of Scope:
-   - API/backend validation
-   - Load & performance testing
+   - Backend/API testing
    - Third-party integrations
 
 - Testing Types:
-   - Functional Testing
-   - UI Testing
-   - Regression Testing
-   - Compatibility Testing (Browsers/Devices)
-   - Smoke Testing
+   - Manual Testing will be performed.
+   - Positive & Negative Testing for login, search, cart, payment.
+   - UI validation on Chrome, Android, iOS (Mobile).
+ 
+- Devices for Testing
+   - Android Mobile
+   - Windows Laptop/Desktop
 
-- Test Environment:
-   - Browser (Chrome, Firefox)
-   - Mobile Testing (Responsive check)
-   - Devices: Desktop, Mobile View (Responsive testing)
-
- - Tools:
+   - Tools:
    - Manual Testing (Excel for test cases)
  
  - Entry Criteria:
-   - Development is complete for module
-   - Test environment is stable
-   - Test cases are ready
+   - Website features are ready for testing.
+   - Test plan and test cases are written.
+   - Devices and browsers are ready.
+   - Test data is ready (like email, product name, card info).
+   - Developer has completed the code for that part.
+
 
  - Exit Criteria:
-   - All test cases executed
-   - High and medium severity bugs fixed and verifie
-   - Final test report prepared
+   -  All test cases are checked.
+   - Major bugs are fixed.
+   - Re-testing is done after fixing bugs.
+   - Final report is ready.
+   - Website is working fine and ready to launch.
+
 
  - Deliverables:
    - Requirement Analysis
